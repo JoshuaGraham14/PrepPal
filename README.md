@@ -1,7 +1,9 @@
 # PrepPal: AI-Powered Revision Tool
 
 AI-powered revision tool built in Palantir AIP for their Palantir Winter Tech Fellowship programme.
+
 *Technologies: Palantir AIP, Large Language Models (LLMs)*  
+
 - Developed a revision tool designed to help students prepare for exams efficiently by turning uploaded study materials into an interactive question bank.  
 - Utilised **large language models** to process PDFs, notes, and lecture slides into personalised questions, complete with answers and detailed explanations, using **Ontology** to structure and manage study materials.
 - Integrated functionality to interact with an LLM through an **AIP Logic Function** to generate detailed explanations for selected answers.
