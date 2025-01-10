@@ -1,6 +1,6 @@
 # PrepPal: AI-Powered Revision Tool
 
-AI-powered revision tool built in Palantir AIP for their Palantir Winter Tech Fellowship programme.
+⚡ AI-powered revision tool built in Palantir AIP for their Palantir Winter Tech Fellowship programme.
 
 ## Overview
 
